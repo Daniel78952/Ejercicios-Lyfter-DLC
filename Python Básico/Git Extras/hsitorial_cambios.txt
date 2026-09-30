@@ -1,3 +1,0 @@
-Only one commit has been done as of the making of this txt file (30/09/2026, 15:31)
-
-This commit was done in order to be able to upload my past works and future ones in my own GitHub repository.
