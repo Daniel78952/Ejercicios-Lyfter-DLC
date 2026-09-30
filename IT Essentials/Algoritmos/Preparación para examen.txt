@@ -1,0 +1,26 @@
+Preparación para examen
+
+1. Inicio
+2. Revisar temas
+	1. Confirmar que reconozca los temas
+	2. Mientras que haya un tema que no entienda:
+		1. Preguntar a profesor sobre este
+3. Estudiar
+	1. Repasar los temas a estudiar mediante lectura de apuntes de clase o libros de los mismos
+	2. Mientras hayan dudas sobre el contenido:
+		1. Preguntar a profesor
+		2. Si no:
+			1. Preguntar a amigos
+		3. Si no:
+			1. Usar herramientas como disponibles como Google, Gemini o ChatGPT
+			2. Si usa una de estas herramientas:
+				1. Verificar información
+	3. Si ya no hay dudas continuar
+	4. Practicar creando cuestionarios propios que se adecuen a los temas
+	5. Si hay amigos con tiempo para reunirse:
+		1. Practicar conocimiento con ellos
+	6. Si no hay amigos, pero hay mucho tiempo:
+		1. Crearte un cuestionario propio
+	7. Si no:
+		1. Usar herramientas como ChatGPT o Gemini para que ayuden a crear preguntas sobre el tema
+4. Fin

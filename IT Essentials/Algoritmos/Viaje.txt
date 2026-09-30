@@ -1,0 +1,21 @@
+Viaje
+
+1. Inicio
+2. Confirmar destino
+	1. Confirmar que es un rio
+3. Decidir fecha y hora
+	1. Verificar que no vaya a llover ese día
+	2. Mientras haya posibilidad de lluvia:
+		1. Aplazar viaje por 1 día
+	3. Confirmar fecha y hora	
+3. Preparación de viaje
+	1. Alistar merienda simple (pan y atún)
+		1. Si tiene los ingredientes:
+			1. Preparar emparedados
+		2. Si no:
+			1. Comprar ingredientes
+			2. Preparar emparedados
+	2. Preparar doble cambio de ropa
+	3. Limpiar tenis
+	4. En un bulto o bolso meter todo lo preparado
+4. Fin

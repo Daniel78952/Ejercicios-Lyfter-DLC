@@ -1,0 +1,37 @@
+Fiesta Sorpresa
+
+1. Inicio
+2. Avisar a amigos y familiares sobre la fiesta
+3. Confirmar asistencias para fiesta y que se cumpla un mínimo de 5 personas
+	1. Si se llega a un mínimo de 5 personas continuar con el planeamiento
+		1. Hacer planeamiento para la fiesta
+			1. Comprar bebidas y utensilios para evento
+			2. Decidir si se compra comida preparada o se hace comida
+				1. Si se hace comida:
+					1. Comparar ingredientes
+				1. Si no:
+					1. Decidir qué comida comprar
+			4. Decidir fecha y hora en la que se va a hacer la fiesta
+				1. Mientras que la fecha y hora coincidan con un momento en que la persona esté en casa por la mañana:
+					2. Buscar otra fecha y hora
+				2. Si se consigue:
+					1. Verificar que vuelva a casa por la tarde 
+				2. Si no se consiguen todos los objetivos anteriores:
+					1. Cancelar fiesta
+		4. Preparar el sitio donde se va a hacer la fiesta
+			1. Limpiar casa en las horas que no se encuentra la persona
+				1. Mientras haya algo sucio seguir limpiando hasta que todo esté limpio
+			2. Recibir invitados
+				1. Si llegan:
+					1. Continuar a la persona de la fiesta
+				2. Si no:
+					1. Cancelar fiesta
+		5. Esperar momento de inicio de fiesta
+		6. Disfrutar de la fiesta
+		7. Despedida de invitados
+		8. Limpieza de sitio
+		9. Retirarse
+		
+4 . Si no:
+	1. Cancelar fiesta
+5. Fin

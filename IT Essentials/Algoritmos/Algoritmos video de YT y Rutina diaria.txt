@@ -1,0 +1,52 @@
+
+Ver un video en YT 
+
+1. Inicio
+2. Tomar dispositivo electrónico al alcance
+	1. Si tiene PC:
+		1. usar PC
+	2. Si no:
+		1. Usar teléfono móvil
+	3. Si no:
+		1. Usar smartTV
+3. Ingresar a YT
+	1. Si usa PC:
+		2. Ingresar a pagina web
+	2. Si no:
+		Ingresar a aplicación de YT en el dispositivo. 
+4. Buscar canal de YT de su agrado
+5. Ver un video
+6. Fin
+
+Rutina diaria 
+
+1. Inicio
+2. Despertar
+	1. Revisar celular
+		1. Si tengo mensajes responderlos
+		2. Si no:
+			1. levantarme de la cama
+3. Desayunar
+	1. Si hay comida:
+		1. comer lo que ya está hecho
+	2. Si no:
+		1. preparar la comida
+4. Bañarme
+5. Estudiar
+	1. Encender PC
+	2. Ingresar a Lyfter
+	3. Mientras hayan videos o ejercicios por completar:
+		1. Ver videos o completar ejercicios
+	4. Si no:
+		1. Repasar lo visto por 3 horas
+6. Jugar
+	1. Si hay juegos que aún no completo:
+		1. Completar estos juegos
+		2. Mientras hayan juegos por completar:
+			1. No comenzar nuevos juegos
+	2. Si no:
+		1. Comenzar nuevos juegos
+	3. Jugar por 2 horas
+		1. Cerras steam y apagar PC
+7. Dormir
+8. Fin
