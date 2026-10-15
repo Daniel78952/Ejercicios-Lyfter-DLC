@@ -13,6 +13,7 @@ def export_students_to_csv(path, students):   # this will export the students da
         writer.writeheader()
         
         writer.writerows(students)
+    print("Datos exportados correctamente.")
 
 def import_students_csv(path):    # returns the list of students, or None if the file does not exist
     try:
