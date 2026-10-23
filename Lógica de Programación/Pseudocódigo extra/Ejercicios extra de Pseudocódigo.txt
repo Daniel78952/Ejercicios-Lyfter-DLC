@@ -1,0 +1,60 @@
+Orden de números
+
+Inicio
+Definir primero
+Definir segundo
+Mostrar "Digite número A: "
+Pedir primero
+Mostrar "Digite número B: "
+Pedir segundo
+Si primero >= segundo
+	Mostrar "A: " primero "B: " segundo
+Sino:
+	Mostrar "A: " segundo "B: " primero
+Fin
+
+
+Conversión de velocidades
+
+Inicio
+Definir KmH_Usuario 
+Definir ms_resultado
+Mostrar "Digite KmH"
+Pedir KmH_Usuario
+ms_resultado = KmH_Usuario/3.6
+Mostrar "La velocidad en m/s es: " ms_resultado
+Fin
+
+
+Porcentaje de genero
+
+Inicio
+Definir hombre
+Definir mujer
+Definir por_hom
+Definir por_muj
+Definir in_usuario
+Definir contador
+contador = 0
+hombre = 0
+mujer = 0
+Mientras que contador < 6:
+	Mostrar "Digite 1 si es hombre o 2 si es mujer"
+	Pedir in_usuario
+	Si in_usuario = 1:
+		contador = contador + 1
+		hombre = hombre + 1
+	Sino Si in_usuario = 2:
+		contador = contador + 1
+		mujer = mujer + 1
+	FinSi
+FinMientras
+por_hom = hombre / 6 * 100
+por_muj = mujer / 6 * 100
+Mostrar por_muj "mujeres y " por_hom "hombres"
+Fin
+
+
+
+
+
